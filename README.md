@@ -24,4 +24,4 @@
 
 <h1> About Me </h1>
 
-Hello, my name is David Reese, I'm soon to graduate with my B.S. of Computer Science. I've developed web and CLI applications which I will host the repositories for publically here, as a show of my technical skill and coding styles. While my academic & personal background does lie in development, I also have experience through my college's IT department with Cloud technologies & Systems Administration. My dual background in IT & Development combines to fit many roles needed from Full-Stack Web Development to DevOps.
+Hello, my name is David Reese, I'm soon to graduate with my B.S. of Computer Science. I've developed web and CLI applications which I will host the repositories for publicly here. While my academic & personal background does lie in development, I also have experience through my college's IT department with Cloud technologies & Systems Administration. My dual background in IT & Development combines to fit many roles needed from Full-Stack Web Development to DevOps.
