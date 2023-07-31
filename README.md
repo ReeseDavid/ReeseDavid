@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Let's%20Build!🛠️&animation=fadeIn&type=waving&color=gradient&height=200&textBg=true&fontSize=60&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?text=Let's%20Build!🛠️&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=60&fontAlignY=45)
 
 - 👋 Hi, I’m @ReeseDavid
 - 👀 I’m interested in ...
