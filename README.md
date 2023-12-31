@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?text=Let's%20Build!🛠️&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=60&fontAlignY=45)
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 <h1> The Stack: </h1>
 <p align="left">
   <a title="Visual Studio" href="https://visualstudio.microsoft.com/vs/features/">
